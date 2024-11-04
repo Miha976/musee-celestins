@@ -1,0 +1,14 @@
+C:\Users\mabou\ABOU\AP\APMuseeProject\APMuseeProject\obj\Debug\APMuseeProject.csproj.AssemblyReference.cache
+C:\Users\mabou\ABOU\AP\APMuseeProject\APMuseeProject\obj\Debug\APMuseeProject.csproj.CoreCompileInputs.cache
+C:\Users\mabou\ABOU\AP\APMuseeProject\APMuseeProject\bin\Debug\APMuseeProject.exe.config
+C:\Users\mabou\ABOU\AP\APMuseeProject\APMuseeProject\bin\Debug\APMuseeProject.exe
+C:\Users\mabou\ABOU\AP\APMuseeProject\APMuseeProject\bin\Debug\APMuseeProject.pdb
+C:\Users\mabou\ABOU\AP\APMuseeProject\APMuseeProject\obj\Debug\APMuseeProject.exe
+C:\Users\mabou\ABOU\AP\APMuseeProject\APMuseeProject\obj\Debug\APMuseeProject.pdb
+C:\APMuseeProject\APMuseeProject\bin\Debug\APMuseeProject.exe.config
+C:\APMuseeProject\APMuseeProject\bin\Debug\APMuseeProject.exe
+C:\APMuseeProject\APMuseeProject\bin\Debug\APMuseeProject.pdb
+C:\APMuseeProject\APMuseeProject\obj\Debug\APMuseeProject.csproj.AssemblyReference.cache
+C:\APMuseeProject\APMuseeProject\obj\Debug\APMuseeProject.csproj.CoreCompileInputs.cache
+C:\APMuseeProject\APMuseeProject\obj\Debug\APMuseeProject.exe
+C:\APMuseeProject\APMuseeProject\obj\Debug\APMuseeProject.pdb
